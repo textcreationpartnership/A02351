@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The humble addresse both of church and poore, to the sacred maiestie of Great Britaines monarch For 
+To the most Reverend Fathers in GOD▪ IOHN, By the Mercie of GOD, L. Arch-bishop of Sainct-Andrewes, 
 #####Body#####
-The humble addresse both of church and poore, to the sacred maiestie of Great Britaines monarch For 
+
+1. THE •VMBLE ADDRESSE both of Church, and Poore, to the Sacred Majestie of their dread Soveraigne, CHARLES, Great Britannes Monarch, &c.
+
+1. The Poores Complaynt, For a just Redresse of the ruine of Hospitalls.
+
 **Types of content**
 
   * There are 1 **verse** lines!
